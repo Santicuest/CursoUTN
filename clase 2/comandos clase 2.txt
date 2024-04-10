@@ -1,0 +1,6 @@
+comandos empezar proyecto nuevo
+git init
+git add . 
+git commit -m ".."
+
+3 comandandos para subir al GitHub

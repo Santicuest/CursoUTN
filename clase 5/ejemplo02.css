@@ -1,0 +1,25 @@
+.caja{
+background-color: orange;
+width: 250px; /*alto de caja*/
+height: 250px; /*ancho de caja*/
+padding: 20px; /*espacio en la caja*/
+box-sizing: border-box; /*mantiene el tamaño de la caja*/
+border-radius: 50px; /*borde de la caja*/  
+border-radius: 60px 0px;
+margin: 100px; /*margen de pagina*/
+box-shadow: 10px 20px 5px rgba(1, 46, 1, 0.699);/*sombra de la caja, tiene minimo 4 parametros, ejes "X"  y "Y"*/
+
+
+}
+
+.caja2{
+    background-color: orange;
+width: 250px; /*alto de caja*/
+height: 250px; /*ancho de caja*/
+padding: 20px; /*espacio en la caja*/
+box-sizing: border-box; /*mantiene el tamaño de la caja*/
+border-radius: 50px; /*borde de la caja*/  
+border-radius: 60px 0px;
+margin: 100px; /*margen de pagina*/
+box-shadow: -10px -20px -5px rgba(1, 46, 1, 0.699);/*sombra de la caja, tiene minimo 4 parametros, ejes "X"  y "Y"*/
+}

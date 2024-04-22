@@ -1,0 +1,30 @@
+h1{
+ color:red; /*color de letra*/
+ background-color: yellow; /*color de fondo de la letra*/
+}
+p{
+    color: green;
+}
+
+.destacado{
+    color: orange;
+    font-weight: bold; /*negrita*/
+    font-style: italic;/*fuente*/
+    font-size: 22px;/*tamaño*/
+
+}
+#rojo{
+    width: 350px; /*alto de caja*/
+    height: 350px; /*ancho de caja*/
+    background-color: red;
+    padding: 20px; /*marco interior, se separa del marco*/
+    box-sizing: border-box;/* mantiene el tamaño de la "caja"*/
+border: 5px solid black; /*borde de la caja*/
+margin-left: 150px; /*margen que deja entre elementos*/
+}
+
+#azul{
+     width: 350px;
+        height: 350px;
+        background-color: blue;
+}
